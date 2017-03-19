@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 edited by master`
+=======
+edited by dev2
+>>>>>>> dev2
 
 first111
 
